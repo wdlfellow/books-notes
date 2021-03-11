@@ -1,12 +1,12 @@
-Java8 in action
+#Java8 in action#
 
-1. lambda
+## lambda
 
 
-2. stream
+## stream
 
-stream();
-filter();
+- stream();
+- filter();
 map();
 flatMap() --combine all the streams into one
 

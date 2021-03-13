@@ -23,6 +23,10 @@
 - stateless: filter(), map()
 - stateful: sum(), count(), sort()
 
+## Collect
+- menu.stream().collect(groupingBy(Dish::getType))
+
+
 ## Code example
 - Optional<Integer> max = numbers.stream().reduce(Integer::max)
 - Stream<String> lines = Files.lines(Paths.get("data.txt"), Charset.defaultCharset())

@@ -1,3 +1,5 @@
 1. no implict type conversion, should use as for explict conversion
 
 2. From and Into trait, implemented in pairs
+
+3. if let - usage to save code and space
